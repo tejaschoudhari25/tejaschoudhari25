@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on my B.E. project **Music Recommendation System**
+- 🔭 I’m currently working on my B.E. project **Music Recommendation System** and enhancing my Problem Solving skills
 
 - 📫 How to reach me **tejaschoudhari25@gmail.com**
 
